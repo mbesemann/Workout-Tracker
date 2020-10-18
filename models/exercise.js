@@ -1,3 +1,5 @@
+// Not used, was attempting to add proper relationships
+
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
